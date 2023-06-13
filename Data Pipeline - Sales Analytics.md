@@ -1,14 +1,17 @@
-# Data-Pipeline
+# Data Pipeline
 
-## 1) Data source: 
+![image](https://github.com/Gonzalodl88/Data-Pipeline/assets/56099577/02a6522f-b250-49a0-8df8-fe333968f991)
+
+
+## 1) Data source
 
 Tables from AWS (OLTP):
 
 ![image](https://github.com/Gonzalodl88/Data-Pipeline/assets/56099577/fc318697-1302-476e-bca4-170c6ab8f9c1)
 
-## 2) ETL Process: 
+## 2) ETL Process
 
-Performed by the Alterix software, in this part of the process we are going to Extract information from the data sources, then we will Transform it, and finally Load it into our data warehouse.
+Process Performed in Alterix, in this part of the process we are going to Extract information from the data sources, then we will Transform it, and finally Load it into our data warehouse.
   
 ![image](https://github.com/Gonzalodl88/Data-Pipeline/assets/56099577/b634a27b-4987-4465-ab55-97e718de82ed)
  
