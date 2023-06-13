@@ -1,10 +1,10 @@
 # Data-Pipeline
 
-## Data source: Tables from AWS - OLTP
+## 1) Data source: Tables from AWS - OLTP
 
 ![image](https://github.com/Gonzalodl88/Data-Pipeline/assets/56099577/fc318697-1302-476e-bca4-170c6ab8f9c1)
 
-## ETL Process: Performed with Alteryx software
+## 2) ETL Process: Performed with Alteryx software
 
 ### Table xxxx
 Extract data for table "xxxx"
@@ -41,10 +41,10 @@ Load data to xxxx
     
 ![image](https://github.com/Gonzalodl88/Data-Pipeline/assets/56099577/b3f0b9f7-3c70-451e-b423-c8dd15d13c2e)
 
-## Data warehouse: xxxxxxxxx
+## 3) Data warehouse: xxxxxxxxx
 
 ![image](https://github.com/Gonzalodl88/Data-Pipeline/assets/56099577/56ed1d3d-a50e-4562-855c-2637d958533e)
 
-## Visualization: xxxxxxxxx
+## 4) Visualization: xxxxxxxxx
 
 https://app.powerbi.com/view?r=eyJrIjoiOGI0MjhiNmQtMTk0Ni00NjFiLTg2ZGYtYzU5MzhlMGIxNTZhIiwidCI6ImE2ZDk4MWQzLTdiMWUtNDdiYy04MzRiLTkzODgxOTRiMWM4MCJ9
